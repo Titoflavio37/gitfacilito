@@ -1,0 +1,17 @@
+commit 541306a661aa3b2e5afde2422513855bbb1b6ec5
+Author: tito <titoflavio37@gmail.com>
+Date:   Thu Dec 10 21:22:11 2015 -0600
+
+    se agregos un parrafo y se cambio los estilos del parrafo
+
+commit db8303613b32cfe083c43df882b79b4158ffb1ea
+Author: tito <titoflavio37@gmail.com>
+Date:   Thu Dec 10 21:15:25 2015 -0600
+
+    Agregue un parrafo
+
+commit f92b7b9113a543f2715b46fb0ebc42cb05aaa96b
+Author: tito <titoflavio37@gmail.com>
+Date:   Thu Dec 10 21:12:27 2015 -0600
+
+    Iniciamos
