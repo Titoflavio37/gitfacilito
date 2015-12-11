@@ -30,3 +30,20 @@
 	background: #f2f2f2;
 	color:#facc2e;
 }
+
+p{
+	background:black;
+	color:red; 
+}
+
+#main{
+	width:900px;
+	height: 225px;
+	margin-right: 60px;
+}
+
+
+#main article{
+	background:black;
+	border:2px solid yellow;  
+}
