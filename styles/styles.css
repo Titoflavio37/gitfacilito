@@ -48,11 +48,11 @@ h1{
 }
 
 .info h2{
-	font-size: 50px;
+	font-size: 52px;
 	margin: 15px 0;
 	text-align: center;
 	text-transform: uppercase;
-	letter-spacing: 5px;
+	letter-spacing: 6px;
 }
 
 .infoContent{
